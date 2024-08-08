@@ -1,0 +1,96 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: arial;
+  overflow-x: hidden;
+}
+
+.top-header {
+  background-color: black;
+  color: white;
+  padding: 10px 430px 10px;
+  font-size: 13px;
+}
+.header-main {
+  width: 100%;
+  padding: 5px;
+  margin: 10px;
+}
+.logo {
+  padding: 10px 20px;
+  width: 2%;
+}
+.bag {
+  padding: 10px 10px;
+  width: 2%;
+}
+.bs {
+  padding: 10px 10px;
+  width: 2%;
+}
+.combo {
+  padding: 10px 10px;
+  width: 2%;
+}
+.sale {
+  padding: 10px 10px;
+  width: 2%;
+}
+.ec {
+  padding: 10px 10px;
+  width: 2%;
+}
+.label {
+  max-width: 100%;
+  height: auto;
+}
+.head01 {
+  font-size: 17px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.img {
+  padding-left: 15px;
+  margin: 5px;
+  float: left;
+}
+.img-text {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  width: 196px;
+}
+.product {
+  padding-left: 15px;
+  margin: 5px;
+  float: left;
+}
+.product-text {
+  font-size: 15px;
+}
+.rupees {
+  color: red;
+}
+.table4 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.table5 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer {
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+.footer1 {
+  text-align: right;
+}
+.table7 {
+  background-color: black;
+  color: white;
+}
